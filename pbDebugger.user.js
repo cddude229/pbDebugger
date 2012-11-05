@@ -3,11 +3,11 @@
 // @namespace  http://forum.sz-ex.com
 // @version    0.0.1a
 // @description  Used to help debug ProBoards v5 modules on any forum.
-// @match      http://*.proboards.com*
-// @match      http://*.freemessageboards.com*
-// @match      http://*.boards.net*
-// @match      http://*.freeforums.net*
-// @match      http://forum.sz-ex.com*
+// @match      http://*.proboards.com/*
+// @match      http://*.freemessageboards.com/*
+// @match      http://*.boards.net/*
+// @match      http://*.freeforums.net/*
+// @match      http://forum.sz-ex.com/*
 // @copyright  2012+, Chris Dessonville
 // ==/UserScript==
 
